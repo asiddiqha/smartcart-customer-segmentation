@@ -6,7 +6,7 @@ The project combines data preprocessing, feature engineering, exploratory data a
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 SmartCart is a growing e-commerce platform with customer data covering demographics, purchasing behaviour, website activity, recency, complaints, and campaign response.
 
@@ -25,7 +25,7 @@ The system discovers hidden patterns in customer behaviour and groups customers 
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 A one-size-fits-all marketing strategy assumes that all customers behave similarly.
 
@@ -47,7 +47,7 @@ The key business question is:
 
 ---
 
-## 🧠 Machine Learning Approach
+## Machine Learning Approach
 
 This project follows an end-to-end unsupervised learning pipeline:
 
